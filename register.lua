@@ -17,7 +17,7 @@ if minetest.get_modpath("mesecons_lightstone") then
   mesecons_ratelimiter.register_action_on("mesecons_lightstone:lightstone_orange_off")
   mesecons_ratelimiter.register_action_on("mesecons_lightstone:lightstone_white_off")
   mesecons_ratelimiter.register_action_on("mesecons_lightstone:lightstone_pink_off")
-  mesecons_ratelimiter.register_action_on("mesecons_lightstone:lightstone_magent_off")
+  mesecons_ratelimiter.register_action_on("mesecons_lightstone:lightstone_magenta_off")
   mesecons_ratelimiter.register_action_on("mesecons_lightstone:lightstone_cyan_off")
   mesecons_ratelimiter.register_action_on("mesecons_lightstone:lightstone_violet_off")
 end
